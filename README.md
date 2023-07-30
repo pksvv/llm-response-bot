@@ -20,5 +20,3 @@ The bot is a demo Pizza Shop bot that can do the following:
 All the bot responses are generated or rephrased using Open AI GPT-3 `text-davinci-003` completions model.  
 
 In case the rate limit is met (3 requests within a minute last I checked), bot will utter the default rephrase response.
-
-![image](https://github.com/pksvv/llm-response-bot/assets/8981899/5f70ff3e-b7f7-4f93-84c2-916e26ca27fe)
